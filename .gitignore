@@ -1,0 +1,11 @@
+# pycharm
+.idea/
+
+# virtualenv
+.venv/
+
+# pycache
+__pycache__/
+
+# resutls
+results/
